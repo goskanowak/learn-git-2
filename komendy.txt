@@ -1,0 +1,10 @@
+autoprefixer-cli - konwertuje plik CSS dodaj¹c prefixy wymagane przez niektóre przegl¹darki:
+
+npm install --save-dev autoprefixer-cli
+
+
+---------------------------
+
+nu-html-checker - sprawdza poprawnoœæ kodu HTML i wyœwietla listê ew. b³êdów:
+
+npm install --sae-dev nu-html-checker
