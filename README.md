@@ -1,1 +1,1 @@
-# learn-git-2
+ https://goskanowak.github.io/learn-git-2/
